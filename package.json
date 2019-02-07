@@ -1,6 +1,6 @@
 {
   "name": "final-form-set-field-touched",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mutator for setting a field as \"touched\" in 🏁 Final Form",
   "main": "dist/final-form-set-field-touched.cjs.js",
   "jsnext:main": "dist/final-form-set-field-touched.es.js",
